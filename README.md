@@ -10,7 +10,7 @@ Features
 📋 Detailed action items and summary
 Installation
 Clone the repository:
-git clone https://github.com/LuckyS25/Personalized-Treatment-Planning
+
 Create a virtual environment (optional but recommended):
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
