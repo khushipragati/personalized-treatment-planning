@@ -10,7 +10,7 @@ Features
 📋 Detailed action items and summary
 Installation
 Clone the repository:
-
+https://github.com/khushipragati/personalized-treatment-planning
 Create a virtual environment (optional but recommended):
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
